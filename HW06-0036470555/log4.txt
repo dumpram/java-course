@@ -1,0 +1,21 @@
+/*
+    private static void initCommands(Map<String, ShellCommand> commands) {
+	commands.put("exit", new ExitShellCommand());
+	commands.put("ls", new LsShellCommand());
+	commands.put("charsets", new CharsetsShellCommand());
+	commands.put("cat", new CatShellCommand());
+	commands.put("tree", new TreeShellCommand());
+	commands.put("copy", new CopyShellCommand());
+	commands.put("hexdump", new HexdumpShellCommand());
+	commands.put("mkdir", new MkdirShellCommand());
+	commands.put("symbol", new SymbolShellCommand());
+    }
+}
+repeat {
+l = readLineOrLines
+String commandName = extract from l
+String[] arguments = extract from l
+command = commands.get(commandName)
+status = command.executeCommand(in, out, arguments)
+} until status!=TERMINATE
+    */

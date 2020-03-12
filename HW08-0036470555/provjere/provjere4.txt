@@ -1,0 +1,9 @@
+format zip @"Mora biti zip format"
+def src "HW07-0036470555"
+exists dir "${src}"
+!exists dir "${src}/dist"
+exists dir "${src}/src/main/java" @"Mora postojati main code" {
+def linearna "${src}/src/main/java:hr.fer.zemris.linearna"
+exists file "${linearna}/AbstractMatrix.java"
+terminate
+}

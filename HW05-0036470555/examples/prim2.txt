@@ -1,0 +1,30 @@
+		load r0, @PET
+		load r1, @msg1
+		load r2, @msg2
+		load r3, @msg3
+		load r4, @nLine
+@LOOP:	echo r1
+		iinput @INPUT
+		jumpIfTrue @NEXT
+		echo r2
+		jump @LOOP
+@NEXT: 	echo r3
+		load r1, @INPUT
+		load r2, @NULA
+@LOOP1:	increment r1
+		echo r1
+		echo r4
+		decrement r0
+		testEquals r0, r2
+		jumpIfTrue @OUT
+		jump @LOOP1
+@OUT:	halt
+
+@PET:	DEFINT 5
+@NULA:	DEFINT 0
+@msg1:	DEFSTR "Unesite početni broj: "
+@msg2:	DEFSTR "Unos nije moguce protumačiti kao cijeli broj.\n"
+@msg3:	DEFSTR "Sljedećih 5 brojeva je:\n"
+@nLine: DEFSTR "\n"  
+@INPUT: DEFINT 50	
+		

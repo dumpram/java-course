@@ -1,0 +1,14 @@
+1	The Beatles	http://www.geocities.com/~goldenoldies/TwistAndShout-Beatles.mid	1
+2	The Platters	http://www.geocities.com/~goldenoldies/SmokeGetsInYourEyes-Platters ver2.mid	1
+3	The Beach Boys	http://www.geocities.com/~goldenoldies/SurfinUSA-BeachBoys.mid	1
+4	The Four Seasons	http://www.geocities.com/~goldenoldies/BigGirlsDontCry-FourSeasons.mid	1
+5	The Marcels	http://www.geocities.com/~goldenoldies/Bluemoon-Marcels.mid	1
+6	The EverlyBrothers	http://www.geocities.com/~goldenoldies/All.I.HaveToDoIsDream-EverlyBrothers.mid	1
+7	The Mamas And The Papas	http://www.geocities.com/~goldenoldies/CaliforniaDreaming-Mamas-Papas.mid	1
+1	Fender Stratocaster	http://cdn.mos.musicradar.com/images/Guitarist/359/roland-g-5-vg-fender-stratocaster-630-80.jpg	2
+2	Fender Telecaster	http://static.planetminecraft.com/files/resource_media/screenshot/1219/0_2209134.jpg	2
+3	Gibson LesPaul	http://musicgears.org/wp-content/uploads/2014/01/gibson-les-paultop-les-paul-players-from-every-decade---backgrinder-s0fektgw.jpg	2
+4	Gibson SG	http://profile.ultimate-guitar.com/profile_mojo_data/3/5/8/5/358594/pics/_c112914_image_0.jpg	2
+5	Pensa Suhr	http://www.pensaguitars.com/images/photos/MK%201_4.jpg	2
+6	MusicMan y2d	http://www.themusiczoo.com/images/5-03-13/17933_Steve_Morse_Y2D_FR_Purple_Sunset_G67550_a.jpg	2
+7	Ibanez JEM	http://www.guitarcleaning.com/wp-content/uploads/2012/11/Ibanez-JEM7VWH.gif	2

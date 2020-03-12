@@ -1,0 +1,28 @@
+.user{
+	font-style: bold;
+	font-size: 2em;
+	color: white;
+	background:blue;
+	height: 40px;
+	width:100%;
+	top: 0px;
+	margin: 0px;
+  	padding: 0px;
+  	left: 0px;
+  	right: 0px;
+}
+.greska {
+	font-family: fanatasy;
+	font-weight: bold;
+	font-size: 0.9em;
+	color: #FF0000
+}
+
+table.podatak {
+	font-style: italic;
+	vertical-align: top;
+}
+
+table.podatak td {
+	vertical-align: top;
+}
